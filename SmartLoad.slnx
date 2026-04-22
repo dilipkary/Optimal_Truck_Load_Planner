@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="SmartLoad.Api/SmartLoad.Api.csproj" />
+  <Project Path="SmartLoad.Tests/SmartLoad.Tests.csproj" />
+</Solution>
